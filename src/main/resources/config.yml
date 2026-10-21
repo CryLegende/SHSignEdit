@@ -1,0 +1,5 @@
+# Permission: shsignedit.use
+whitelisted-worlds:
+  - "SuperiorWorld"
+denyMessage: "&7&l« &c&lSH &8&l» &7Grade &fVIP &7requis pour éditer les pancartes"
+notYourIslandMessage: "&7&l« &c&lSH &8&l» &7Vous devez être sur votre île pour éditer les pancartes"
